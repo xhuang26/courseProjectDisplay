@@ -1,0 +1,96 @@
+.node circle {
+  fill: #999;
+}
+
+.node text {
+  font: 10px sans-serif;
+}
+
+.node--internal circle {
+  fill: #555;
+  cursor: pointer;
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+  font: #A0A0A0;
+}
+
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+
+.treeGraph{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  width: inherit;
+  margin:20px;
+  margin-right: 0px;
+  .detailedInfo{
+    align-self: flex-start;
+    order: 1;
+    padding-top: 50px;
+    aside{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+      font-family: 'Source Sans Pro', serif;
+      background-color: rgba(0,0,0,0.3);
+      color: white;
+      width: 300px;
+      .item{
+        text-align: left;
+        margin: 10px;
+        margin-top: 50px;
+        width: 300px;
+        border-bottom: 1px solid #A0A0A0; 
+        overflow: auto;
+      }
+      .close{
+        text-align: left;
+        margin-left: 10px;
+        margin-top: 5px;
+        cursor: pointer;
+        &:hover{
+          
+          color: black;
+        }
+      }
+      
+    }
+  }
+}
+.iframe{
+  width: 100%;
+  iframe{
+    width: inherit;
+    height: 500px;
+  }
+}
+.versionItem{
+    text-align: left;
+    padding-left: 15px;
+}
+.asideTransition-enter {
+  margin-right: -300px;
+  transition: margin-right 0.4s ease-in;
+}
+
+.asideTransition-enter.asideTransition-enter-active {
+  margin-right: 0px;
+}
+
+.asideTransition-leave {
+  margin-right: 0px;
+  transition: margin-right 0.4s ease-in;
+}
+
+.asideTransition-leave.asideTransition-leave-active {
+  margin-right: -300px;
+}

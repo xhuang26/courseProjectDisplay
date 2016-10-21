@@ -1,0 +1,26 @@
+{
+  "name": "webportfolio",
+  "version": "1.0.0",
+  "description": "a portfolio to show off all of the code that you have written over the duration of the the semester",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-validator": "^2.20.10",
+    "mocha": "^3.1.2",
+    "mssql": "^3.3.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "webportfolio"
+  ],
+  "author": "xhuang62",
+  "license": "ISC"
+}

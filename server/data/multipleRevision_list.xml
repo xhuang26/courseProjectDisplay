@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa16-cs242/xhuang62">
+<entry
+   kind="dir">
+<name>ProjectA</name>
+<commit
+   revision="1234">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>ProjectA/fileA</name>
+<size>188</size>
+<commit
+   revision="1234">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+</list>
+</lists>

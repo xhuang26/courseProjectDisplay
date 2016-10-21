@@ -1,0 +1,29 @@
+.head{
+  .headDiv{
+      position: relative;
+      width: 300px;
+      left: 50%;
+      transform: translateX(-50%);
+      margin-top: 100px;
+      .eyebrow{
+        position: absolute;
+        transition: 0.4s;
+        left: 0;
+        top: 0;
+        &:hover{
+          top: -5px;
+        }
+      }
+  }
+
+
+
+  .myName{
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    width: inherit;
+    font-size: 15px;
+    letter-spacing: 10px;
+    padding-left: 10px;
+  }
+}

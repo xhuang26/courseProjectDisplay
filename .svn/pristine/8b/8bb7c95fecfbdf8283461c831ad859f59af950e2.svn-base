@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7134">
+<author>xhuang62</author>
+<date>2016-10-09T05:13:07.765019Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment3.0</path>
+</paths>
+<msg>create directory</msg>
+</logentry>
+<logentry
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/temp</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/temp/temp.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/AirGraph.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/AirGraphTest.rb</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNode.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNodeTest.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/data.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/.project</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/TextInterface.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/.buildpath</path>
+</paths>
+<msg>import assignment2.1</msg>
+</logentry>
+<logentry
+   revision="6944">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:06.091359Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/xhuang62/Assignment2.1</path>
+</paths>
+<msg>remove current repo</msg>
+</logentry>
+<logentry
+   revision="6925">
+<author>xhuang62</author>
+<date>2016-10-06T21:33:11.461190Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/temp.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/cmi_hub.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/AirGraph.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/AirGraphTest.rb</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNode.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/CityNodeTest.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/data.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/TextInterface.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/.buildpath</path>
+</paths>
+<msg>import assignment2.1</msg>
+</logentry>
+<logentry
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/TextInterface.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/.buildpath</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/AirGraph.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/AirGraphTest.rb</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/CityNode.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/CityNodeTest.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/data.json</path>
+</paths>
+<msg>import CSAir directory</msg>
+</logentry>
+<logentry
+   revision="5967">
+<author>xhuang62</author>
+<date>2016-09-26T21:18:48.827650Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/xhuang62/Assignment2.0</path>
+</paths>
+<msg>remove current dir</msg>
+</logentry>
+<logentry
+   revision="5833">
+<author>xhuang62</author>
+<date>2016-09-23T22:20:20.494880Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment2.0</path>
+</paths>
+<msg>creating directory</msg>
+</logentry>
+<logentry
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.2/.settings</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.2/test</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/rookWhite.png</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.2/test/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/UndoTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/queenWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Queen.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/GameTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Rook.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/AlfilTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/ChessTests.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/pawnWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/test/chess/PlayerWhiteTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/alfilWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Board.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Alfil.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/OutOfValidRange.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/imgs/queenWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Alfil.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Board.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/ChessTests.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/PlayerWhite.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/UndoTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/OutOfValidRange.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PlayerBlackTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/bishopBlack.png</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.2/bin/chess</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/HopperTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PlayerWhite.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Tile.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/pawnWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/imgs/kingBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/imgs/knightWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Position.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Undo.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Position.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/testPlan.docx</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$2.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/test/chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$4.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/knightBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$6.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/ChessGUI.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/PieceMoveController.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/ChessPieceGUI.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/kingBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/bishopWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Knight.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/rookBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/ChessBoardGUI.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/King.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/KnightTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/hopperWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Player.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/test/chess/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/rookBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/queenBlack.png</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.2/src/imgs</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/PawnTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Undo.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Game.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/RookTest.class</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.2/src/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/pawnBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/alfilBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/test/chess/PlayerBlackTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/ChessBoardGUI.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/ChessPieceGUI.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/imgs/queenBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/PlayerBlack.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Undo$MyNode.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/AlfilTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/BoardTest.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.2/bin</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/test/chess/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PlayerBlack.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/knightBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/pawnBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/TileTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/PlayerWhiteTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Hopper.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/imgs/bishopWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/kingWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/ChessGUI.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$1.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$PieceClickListener.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$3.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/bishopBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$5.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/PieceMoveController$7.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/imgs/knightWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/.classpath</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/TileTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/test/chess/HopperTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/kingWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/imgs/hopperBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/imgs/rookWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/bin/chess/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.2/bin/imgs</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Player.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.2/src/chess/Tile.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/bin/chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.2/src/chess/Hopper.java</path>
+</paths>
+<msg>import assignment1.2</msg>
+</logentry>
+<logentry
+   revision="4662">
+<author>xhuang62</author>
+<date>2016-09-15T16:10:06.941403Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/xhuang62/Assignment1.1/doxygen</path>
+<path
+   kind="dir"
+   action="D">/xhuang62/Assignment1.1/latex</path>
+<path
+   kind="dir"
+   action="D">/xhuang62/Assignment1.1/html</path>
+</paths>
+<msg>remove unnecessary doxygen files</msg>
+</logentry>
+<logentry
+   revision="4661">
+<author>xhuang62</author>
+<date>2016-09-15T16:08:35.880441Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/chess_initial_position.JPEG</path>
+</paths>
+<msg>add screenshot</msg>
+</logentry>
+<logentry
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_1.js</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/latex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/PlayerWhiteTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Tile.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_player_black.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_a.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_12.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/ChessGUI.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_d.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_player_white.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_b.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/kingBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_9.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_f.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_piece.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/tab_h.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_2.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_7.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_tile-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_board_test.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Hopper.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_hopper.eps</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_player_white.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_king_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_alfil.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/nav_f.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/dynsections.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_8.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_a.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_position.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_king.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_e.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Game.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_a.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_6.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/ChessBoardGUI.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_player_white.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_hopper.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_board_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_game.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/PlayerWhiteTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_2.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/doxygen.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_white-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_bishop.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Alfil.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_alfil.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_alfil_test.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/dir_e68e8157741866f444e17edd764ebbae.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/PlayerWhite.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_3.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_position-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_hopper.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_7.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/kingWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_10.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Game.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_b.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_out_of_valid_range.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_rook.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_3.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_rook.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_10.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_bishop-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/close.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/HopperTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/ChessBoardGUI.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/bin/imgs</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_piece.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_black.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_8.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/search_l.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_2.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_hopper_test.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/test</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/dir_2acd104382d5bc07f3034934c28140b9.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_hopper_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_rook-members.html</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.1/test/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_bishop.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/annotated.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/open.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_0.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/PlayerBlackTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_c.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/jquery.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_black_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/dir_13e138d54eb8818da29c3992edef070a.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_black-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_knight.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Alfil.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/queenBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/OutOfValidRange.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_hopper_test-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_8.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/doxygen.sty</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_5.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/ChessTests.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/arrowdown.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/bishopBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_9.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_piece.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/GameTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/HopperTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_chess_tests.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player_white_test.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_pawn.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_9.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_hopper.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_knight.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/annotated.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/imgs/knightBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/testPlan</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_rook_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/ChessGUI.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_b.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/tab_a.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/bishopWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_3.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_2.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_alfil_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_6.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_rook.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_queen.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_chess_board_g_u_i.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_queen.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_4.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/rookBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/nav_g.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_8.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/queenWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_e.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/dir_ca96b112edf0a196872e1ec0b84dd303.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/AlfilTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/pawnBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_11.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/dir_ca96b112edf0a196872e1ec0b84dd303.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_queen.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_rook_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_alfil_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_rook.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_white_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_bishop_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_3.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_king.html</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/bin/chess</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player_black_test.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Hopper.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_3.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_game-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_10.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_b.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_player_black.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_f.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_chess_g_u_i.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/search.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_10.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_queen_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_7.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_d.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/dir_a469c1a447a1fbb4c350399e58cec756.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_king_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_board-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_king-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_0.html</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.1/html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/rookWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Knight.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_pawn.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_out_of_valid_range.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_9.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player_white.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_knight.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/search_m.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_tile_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_11.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_c.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Rook.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_queen_test-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_alfil.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Queen.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_alfil.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player_black.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/Makefile</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/ChessTests.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_4.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/dir_13e138d54eb8818da29c3992edef070a.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_pawn.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/nomatches.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_c.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_out_of_valid_range-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_4.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_king.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/AlfilTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/PlayerWhite.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_9.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/kingBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/imgs/pawnWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_pawn-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_tile.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/knightWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_5.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_9.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_tile.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/refman.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Position.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_pawn_test.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_1.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_knight_test-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/tab_b.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_12.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_out_of_valid_range.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/search.css</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_6.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_knight_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_0.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_pawn_test-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_tile_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_4.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/arrowright.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_chess_board_g_u_i.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/nav_h.png</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.1/src/imgs</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/dir_2acd104382d5bc07f3034934c28140b9.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/dir_a469c1a447a1fbb4c350399e58cec756.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_11.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/QueenTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/sync_on.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_e.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_bishop.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/PlayerBlack.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_3.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_tile_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_a.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_7.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Position.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/bdwn.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player_white.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_piece.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_bishop.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_piece.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_f.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_king.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/bishopBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_game_test.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_hopper.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_d.js</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_chess_board_g_u_i.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_alfil-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/imgs/kingWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_0.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/King.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_5.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_4.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_hopper-members.html</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.1/html/search</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_player_black_test.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_king.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_6.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/search_r.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_game_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/searchdata.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/queenBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_11.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_c.html</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_chess_board_g_u_i-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_queen.eps</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/src/chess</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_chess_board_g_u_i.eps</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_chess_g_u_i.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/dir_f0798e499cd227b58a0c984c2e384a8a.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_piece-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_0.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_8.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_1.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classes.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_knight.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_rook.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_1.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_out_of_valid_range.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_5.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/tabs.css</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/folderopen.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_12.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_d.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/functions_func.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/sync_off.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_5.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_12.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_knight-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_game_test.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/closed.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/rookBlack.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_f.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_player_black.eps</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/splitbar.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Player.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/doxygen.css</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/chess/Tile.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_0.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_bishop.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_player_white_test.html</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_board.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/test/chess/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/tab_s.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/dir_e68e8157741866f444e17edd764ebbae.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/dir_68267d1309a1af8e8297ef4c3efbcdba.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_rook_test-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_a.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_knight.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/PawnTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_out_of_valid_range.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/dir_f0798e499cd227b58a0c984c2e384a8a.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_2.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_game.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/folderclosed.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/doc.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_a.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_e.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_queen_test.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_alfil.eps</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_pawn.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/classes_6.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/queenWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_board.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_king_test.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_7.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/PlayerBlackTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/OutOfValidRange.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_player.eps</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/imgs/pawnBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/imgs/knightBlack.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_board_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/doxygen</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/TileTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/index.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/bishopWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_7.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/hierarchy.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_queen-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/hierarchy.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_pawn_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_position.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_bishop_test-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_player.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/imgs/knightWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/.classpath</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/classes_1.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/test/chess/TileTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/mag_sel.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_queen.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/latex/classchess_1_1_chess_board_g_u_i.tex</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_player-members.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_4.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_chess_tests.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/latex/classchess_1_1_bishop_test.tex</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_8.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/functions_2.js</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/functions.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/ChessGUI$1.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_chess_g_u_i-members.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/all_6.js</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/src/imgs/rookWhite.png</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/classchess_1_1_pawn.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/chess/GameTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/bc_s.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/bin/imgs/pawnWhite.png</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/src/chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/search/all_1.html</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.1/html/classchess_1_1_knight_test.html</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.1/bin</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/html/search/functions_5.html</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.1/bin/chess/PlayerBlack.class</path>
+</paths>
+<msg>importing assignment1.1</msg>
+</logentry>
+<logentry
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Board.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/King.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/PlayerBlack.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Piece.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Player.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/PlayerWhite.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Tile.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/ChessTests.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/GameTest.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/.settings</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Tile.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/TileTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/.project</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/src/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/PlayerBlackTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Queen.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/QueenTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/BoardInvalidDimensionException.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/.classpath</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/TileTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/PlayerWhiteTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/BoardInvalidDimensionException.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/KnightTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Knight.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/BishopTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/PlayerBlack.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/PlayerBlackTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.0/bin/chess</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerWhite.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerWhiteTest.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.0/test</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/test/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Game.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/GameTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Rook.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/ChessTests.java</path>
+</paths>
+<msg>import chess class</msg>
+</logentry>
+<logentry
+   revision="3604">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:03.330189Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/xhuang62/Assignment1.0</path>
+</paths>
+<msg>remove current assignment1.0</msg>
+</logentry>
+<logentry
+   revision="3422">
+<author>xhuang62</author>
+<date>2016-09-08T05:43:33.767380Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Knight.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Bishop.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/King.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/PlayerBlack.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Player.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Tile.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/PlayerWhite.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/ChessTests.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Tile.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/TileTest.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.0/.settings</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/src/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/PlayerBlackTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/QueenTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Queen.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/BoardInvalidDimensionException.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/.classpath</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/src/chess/Piece.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/PlayerWhiteTest.java</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/TileTest.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/BoardInvalidDimensionException.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/KnightTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Bishop.class</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/King.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerBlack.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerBlackTest.class</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment1.0/bin/chess</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Player.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerWhite.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/PlayerWhiteTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/test/chess/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/test</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment1.0/test/chess</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/src/chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment1.0/bin/chess/GameTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Game.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/Rook.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/bin/chess/RookTest.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment1.0/test/chess/ChessTests.java</path>
+</paths>
+<msg>importing chess class</msg>
+</logentry>
+<logentry
+   revision="2771">
+<author>xhuang62</author>
+<date>2016-09-01T20:36:41.800296Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/xhuang62/cs242</path>
+<path
+   kind="dir"
+   copyfrom-path="/xhuang62/cs242"
+   copyfrom-rev="2770"
+   action="A">/xhuang62/svnLearning</path>
+</paths>
+<msg>rename the folder cs242 to svnLearning</msg>
+</logentry>
+<logentry
+   revision="2769">
+<author>xhuang62</author>
+<date>2016-09-01T20:34:55.781352Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/xhuang62/webServer.js</path>
+</paths>
+<msg>remove redundant webServer.js</msg>
+</logentry>
+<logentry
+   revision="2763">
+<author>xhuang62</author>
+<date>2016-09-01T20:27:41.274077Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment0/webServer.js</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment0</path>
+</paths>
+<msg>importing Assignment0</msg>
+</logentry>
+<logentry
+   revision="2762">
+<author>xhuang62</author>
+<date>2016-09-01T20:27:06.431417Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/webServer.js</path>
+</paths>
+<msg>importing Assignment0</msg>
+</logentry>
+<logentry
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/xhuang62/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="M"
+   kind="file">/xhuang62/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="M"
+   kind="file">/xhuang62/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="M"
+   kind="file">/xhuang62/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>finished refactoring</msg>
+</logentry>
+<logentry
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/bin</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/COPYING</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/HW0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/.settings</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/HW0/src</path>
+<path
+   action="A"
+   kind="file">/xhuang62/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/xhuang62/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+</paths>
+<msg>import hw0</msg>
+</logentry>
+<logentry
+   revision="2694">
+<author>xhuang62</author>
+<date>2016-09-01T18:03:38.159934Z</date>
+<paths>
+<path
+   copyfrom-path="/xhuang62/cs242/grocery"
+   copyfrom-rev="2693"
+   action="A"
+   kind="dir">/xhuang62/cs242/shopping</path>
+<path
+   kind="dir"
+   action="D">/xhuang62/cs242/grocery</path>
+</paths>
+<msg>moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="2687">
+<author>xhuang62</author>
+<date>2016-09-01T17:36:44.877746Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/xhuang62/cs242/grocery/list3.txt</path>
+</paths>
+<msg>delete meat</msg>
+</logentry>
+<logentry
+   revision="2686">
+<author>xhuang62</author>
+<date>2016-09-01T17:35:42.823949Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/cs242/grocery/list3.txt</path>
+</paths>
+<msg>adding meat</msg>
+</logentry>
+<logentry
+   revision="2678">
+<author>xhuang62</author>
+<date>2016-09-01T16:48:11.071537Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/xhuang62/cs242/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="2676">
+<author>xhuang62</author>
+<date>2016-09-01T16:46:18.547570Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/xhuang62/cs242/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="2675">
+<author>xhuang62</author>
+<date>2016-09-01T16:45:26.283830Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/xhuang62/cs242/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="2674">
+<author>xhuang62</author>
+<date>2016-09-01T16:41:22.260416Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/xhuang62/cs242/grocery/list2.txt</path>
+</paths>
+<msg>Adding more veges</msg>
+</logentry>
+<logentry
+   revision="2662">
+<author>xhuang62</author>
+<date>2016-09-01T16:11:20.884089Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/xhuang62/cs242/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="2660">
+<author>xhuang62</author>
+<date>2016-09-01T16:04:58.090335Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/xhuang62/cs242/grocery</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/cs242</path>
+<path
+   action="A"
+   kind="file">/xhuang62/cs242/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/xhuang62/cs242/grocery/list2.txt</path>
+</paths>
+<msg>import grocery project</msg>
+</logentry>
+<logentry
+   revision="177">
+<author>root</author>
+<date>2016-08-23T17:56:48.601443Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/xhuang62</path>
+</paths>
+<msg>created directory xhuang62</msg>
+</logentry>
+</log>

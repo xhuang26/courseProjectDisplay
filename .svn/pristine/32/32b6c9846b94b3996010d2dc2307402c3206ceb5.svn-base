@@ -1,0 +1,7 @@
+<!doctype html public "storage">
+<html>
+<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond|Source+Sans+Pro:300" rel="stylesheet">
+<meta charset=utf-8/>
+<title>Web Portfolio</title>
+<div id=app></div>
+<script src="bundle.js"></script>

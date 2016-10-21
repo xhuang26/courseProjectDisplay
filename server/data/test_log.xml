@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7134">
+<author>xhuang62</author>
+<date>2016-10-09T05:13:07.765019Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment3.0</path>
+</paths>
+<msg>create directory</msg>
+</logentry>
+<logentry
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/temp.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/AirGraph.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/AirGraphTest.rb</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNode.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNodeTest.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/data.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/.project</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/TextInterface.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/.buildpath</path>
+</paths>
+<msg>import assignment2.1</msg>
+</logentry>
+<logentry
+   revision="6944">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:06.091359Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/xhuang62/Assignment2.1</path>
+</paths>
+<msg>remove current repo</msg>
+</logentry>
+<logentry
+   revision="6925">
+<author>xhuang62</author>
+<date>2016-10-06T21:33:11.461190Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/temp.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/cmi_hub.json</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/AirGraph.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/AirGraphTest.rb</path>
+<path
+   action="A"
+   kind="dir">/xhuang62/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.1/CityNode.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/CityNodeTest.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/data.json</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/TextInterface.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.1/.buildpath</path>
+</paths>
+<msg>import assignment2.1</msg>
+</logentry>
+<logentry
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/.project</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/TextInterface.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/.buildpath</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/AirGraph.rb</path>
+<path
+   kind="file"
+   action="A">/xhuang62/Assignment2.0/AirGraphTest.rb</path>
+<path
+   kind="dir"
+   action="A">/xhuang62/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/CityNode.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/CityNodeTest.rb</path>
+<path
+   action="A"
+   kind="file">/xhuang62/Assignment2.0/data.json</path>
+</paths>
+<msg>import CSAir directory</msg>
+</logentry>
+</log>

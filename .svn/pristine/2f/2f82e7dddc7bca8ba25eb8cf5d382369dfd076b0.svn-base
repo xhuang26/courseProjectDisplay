@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa16-cs242/xhuang62">
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.buildpath</name>
+<size>188</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>369</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirGraph.rb</name>
+<size>5491</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirGraphTest.rb</name>
+<size>5333</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CityNode.rb</name>
+<size>981</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CityNodeTest.rb</name>
+<size>1034</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+  <commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+  
+<entry
+   kind="file">
+<name>Assignment2.1/.buildpath</name>
+<size>188</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>369</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirGraph.rb</name>
+<size>16809</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirGraphTest.rb</name>
+<size>11444</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+  
+<entry
+   kind="file">
+<name>Assignment2.1/CityNode.rb</name>
+<size>2001</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CityNodeTest.rb</name>
+<size>1125</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/TextInterface.rb</name>
+<size>12977</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data.json</name>
+<size>16098</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/temp</name>
+<size>13198</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/temp/temp.json</name>
+<size>13198</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+
+</list>
+</lists>

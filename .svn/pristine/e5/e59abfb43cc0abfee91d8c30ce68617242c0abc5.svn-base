@@ -1,0 +1,3521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa16-cs242/xhuang62">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2763">
+<author>xhuang62</author>
+<date>2016-09-01T20:27:41.274077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/webServer.js</name>
+<size>13199</size>
+<commit
+   revision="2763">
+<author>xhuang62</author>
+<date>2016-09-01T20:27:41.274077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>414</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>364</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/chess</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Bishop.class</name>
+<size>2065</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/BishopTest.class</name>
+<size>3016</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Board.class</name>
+<size>1232</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/BoardInvalidDimensionException.class</name>
+<size>465</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/BoardTest.class</name>
+<size>1376</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/ChessTests.class</name>
+<size>806</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Game.class</name>
+<size>8716</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/GameTest.class</name>
+<size>6335</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/King.class</name>
+<size>1794</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/KingTest.class</name>
+<size>3128</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Knight.class</name>
+<size>2237</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/KnightTest.class</name>
+<size>2841</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Pawn.class</name>
+<size>2387</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/PawnTest.class</name>
+<size>4724</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Piece.class</name>
+<size>2106</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Player.class</name>
+<size>2297</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/PlayerBlack.class</name>
+<size>1211</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/PlayerBlackTest.class</name>
+<size>2038</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/PlayerWhite.class</name>
+<size>1221</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/PlayerWhiteTest.class</name>
+<size>2049</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Queen.class</name>
+<size>2762</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/QueenTest.class</name>
+<size>3310</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Rook.class</name>
+<size>2287</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/RookTest.class</name>
+<size>3003</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Tile.class</name>
+<size>781</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/TileTest.class</name>
+<size>902</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/chess</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Bishop.java</name>
+<size>1536</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Board.java</name>
+<size>1129</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/BoardInvalidDimensionException.java</name>
+<size>236</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Game.java</name>
+<size>10865</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/King.java</name>
+<size>1557</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Knight.java</name>
+<size>2146</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Pawn.java</name>
+<size>2851</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Piece.java</name>
+<size>2627</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Player.java</name>
+<size>1918</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/PlayerBlack.java</name>
+<size>986</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/PlayerWhite.java</name>
+<size>982</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Queen.java</name>
+<size>2721</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Rook.java</name>
+<size>1966</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/chess/Tile.java</name>
+<size>536</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/test</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/test/chess</name>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/BishopTest.java</name>
+<size>2924</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/BoardTest.java</name>
+<size>1454</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/ChessTests.java</name>
+<size>351</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/GameTest.java</name>
+<size>9020</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/KingTest.java</name>
+<size>2692</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/KnightTest.java</name>
+<size>2536</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/PawnTest.java</name>
+<size>5403</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/PlayerBlackTest.java</name>
+<size>1652</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/PlayerWhiteTest.java</name>
+<size>1637</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/QueenTest.java</name>
+<size>3719</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/RookTest.java</name>
+<size>3136</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/test/chess/TileTest.java</name>
+<size>593</size>
+<commit
+   revision="3605">
+<author>xhuang62</author>
+<date>2016-09-08T18:57:45.858053Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4662">
+<author>xhuang62</author>
+<date>2016-09-15T16:10:06.941403Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>414</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>364</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/.settings</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>105111</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/chess</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Alfil.class</name>
+<size>1837</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/AlfilTest.class</name>
+<size>2829</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Bishop.class</name>
+<size>2432</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/BishopTest.class</name>
+<size>2993</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Board.class</name>
+<size>1217</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/BoardTest.class</name>
+<size>1346</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/ChessBoardGUI.class</name>
+<size>3677</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/ChessGUI$1.class</name>
+<size>633</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/ChessGUI.class</name>
+<size>3125</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/ChessTests.class</name>
+<size>829</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Game.class</name>
+<size>7973</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/GameTest.class</name>
+<size>5560</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Hopper.class</name>
+<size>1945</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/HopperTest.class</name>
+<size>3880</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/King.class</name>
+<size>1794</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/KingTest.class</name>
+<size>3152</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Knight.class</name>
+<size>2237</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/KnightTest.class</name>
+<size>2865</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/OutOfValidRange.class</name>
+<size>420</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Pawn.class</name>
+<size>2387</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/PawnTest.class</name>
+<size>4748</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Piece.class</name>
+<size>2153</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Player.class</name>
+<size>2139</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/PlayerBlack.class</name>
+<size>1211</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/PlayerBlackTest.class</name>
+<size>2038</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/PlayerWhite.class</name>
+<size>1221</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/PlayerWhiteTest.class</name>
+<size>2049</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Position.class</name>
+<size>914</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Queen.class</name>
+<size>3104</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/QueenTest.class</name>
+<size>3554</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Rook.class</name>
+<size>2287</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/RookTest.class</name>
+<size>3027</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/Tile.class</name>
+<size>781</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/chess/TileTest.class</name>
+<size>902</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/imgs</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/bishopBlack.png</name>
+<size>1260</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/bishopWhite.png</name>
+<size>1944</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/kingBlack.png</name>
+<size>2485</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/kingWhite.png</name>
+<size>2279</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/knightBlack.png</name>
+<size>1516</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/knightWhite.png</name>
+<size>1878</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/pawnBlack.png</name>
+<size>797</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/pawnWhite.png</name>
+<size>1294</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/queenBlack.png</name>
+<size>2267</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/queenWhite.png</name>
+<size>2637</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/rookBlack.png</name>
+<size>725</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/imgs/rookWhite.png</name>
+<size>933</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess_initial_position.JPEG</name>
+<size>67760</size>
+<commit
+   revision="4661">
+<author>xhuang62</author>
+<date>2016-09-15T16:08:35.880441Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/chess</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Alfil.java</name>
+<size>1547</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Bishop.java</name>
+<size>1727</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Board.java</name>
+<size>1114</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/ChessBoardGUI.java</name>
+<size>4112</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/ChessGUI.java</name>
+<size>2804</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Game.java</name>
+<size>9498</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Hopper.java</name>
+<size>2050</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/King.java</name>
+<size>1222</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Knight.java</name>
+<size>2166</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/OutOfValidRange.java</name>
+<size>206</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Pawn.java</name>
+<size>2869</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Piece.java</name>
+<size>2717</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Player.java</name>
+<size>1830</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/PlayerBlack.java</name>
+<size>1026</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/PlayerWhite.java</name>
+<size>1020</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Position.java</name>
+<size>614</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Queen.java</name>
+<size>2816</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Rook.java</name>
+<size>1984</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/chess/Tile.java</name>
+<size>548</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/imgs</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/bishopBlack.png</name>
+<size>1260</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/bishopWhite.png</name>
+<size>1944</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/kingBlack.png</name>
+<size>2485</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/kingWhite.png</name>
+<size>2279</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/knightBlack.png</name>
+<size>1516</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/knightWhite.png</name>
+<size>1878</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/pawnBlack.png</name>
+<size>797</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/pawnWhite.png</name>
+<size>1294</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/queenBlack.png</name>
+<size>2267</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/queenWhite.png</name>
+<size>2637</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/rookBlack.png</name>
+<size>725</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/imgs/rookWhite.png</name>
+<size>933</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/test/chess</name>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/AlfilTest.java</name>
+<size>2494</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/BishopTest.java</name>
+<size>2984</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/BoardTest.java</name>
+<size>1334</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/ChessTests.java</name>
+<size>368</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/GameTest.java</name>
+<size>7454</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/HopperTest.java</name>
+<size>4573</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/KingTest.java</name>
+<size>2745</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/KnightTest.java</name>
+<size>2591</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/PawnTest.java</name>
+<size>5456</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/PlayerBlackTest.java</name>
+<size>1652</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/PlayerWhiteTest.java</name>
+<size>1637</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/QueenTest.java</name>
+<size>3950</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/RookTest.java</name>
+<size>3189</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/test/chess/TileTest.java</name>
+<size>593</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/testPlan</name>
+<size>549</size>
+<commit
+   revision="4239">
+<author>xhuang62</author>
+<date>2016-09-14T02:37:04.854744Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>414</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>364</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/.settings</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.settings/org.eclipse.jdt.core.prefs</name>
+<size>587</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>105111</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/chess</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Alfil.class</name>
+<size>1837</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/AlfilTest.class</name>
+<size>2829</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Bishop.class</name>
+<size>2432</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/BishopTest.class</name>
+<size>2993</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Board.class</name>
+<size>1217</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/BoardTest.class</name>
+<size>1346</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/ChessBoardGUI.class</name>
+<size>4826</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/ChessGUI.class</name>
+<size>8797</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/ChessPieceGUI.class</name>
+<size>1377</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/ChessTests.class</name>
+<size>829</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Game.class</name>
+<size>7926</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/GameTest.class</name>
+<size>5669</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Hopper.class</name>
+<size>1945</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/HopperTest.class</name>
+<size>3880</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/King.class</name>
+<size>1794</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/KingTest.class</name>
+<size>3152</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Knight.class</name>
+<size>2237</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/KnightTest.class</name>
+<size>2865</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/OutOfValidRange.class</name>
+<size>420</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Pawn.class</name>
+<size>2384</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PawnTest.class</name>
+<size>4748</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Piece.class</name>
+<size>2202</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$1.class</name>
+<size>683</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$2.class</name>
+<size>677</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$3.class</name>
+<size>1650</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$4.class</name>
+<size>769</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$5.class</name>
+<size>1008</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$6.class</name>
+<size>1602</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$7.class</name>
+<size>829</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController$PieceClickListener.class</name>
+<size>3769</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PieceMoveController.class</name>
+<size>7928</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Player.class</name>
+<size>2264</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PlayerBlack.class</name>
+<size>1259</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PlayerBlackTest.class</name>
+<size>2038</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PlayerWhite.class</name>
+<size>1269</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/PlayerWhiteTest.class</name>
+<size>2049</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Position.class</name>
+<size>1525</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Queen.class</name>
+<size>3104</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/QueenTest.class</name>
+<size>3554</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Rook.class</name>
+<size>2287</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/RookTest.class</name>
+<size>3027</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Tile.class</name>
+<size>781</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/TileTest.class</name>
+<size>902</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Undo$MyNode.class</name>
+<size>2959</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/Undo.class</name>
+<size>1573</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/chess/UndoTest.class</name>
+<size>2777</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/imgs</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/bishopBlack.png</name>
+<size>1260</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/bishopWhite.png</name>
+<size>1944</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/kingBlack.png</name>
+<size>2485</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/kingWhite.png</name>
+<size>2279</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/knightBlack.png</name>
+<size>1516</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/knightWhite.png</name>
+<size>1878</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/pawnBlack.png</name>
+<size>797</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/pawnWhite.png</name>
+<size>1294</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/queenBlack.png</name>
+<size>2267</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/queenWhite.png</name>
+<size>2637</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/rookBlack.png</name>
+<size>725</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/imgs/rookWhite.png</name>
+<size>933</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/chess</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Alfil.java</name>
+<size>1547</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Bishop.java</name>
+<size>1727</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Board.java</name>
+<size>1114</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/ChessBoardGUI.java</name>
+<size>5224</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/ChessGUI.java</name>
+<size>9258</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/ChessPieceGUI.java</name>
+<size>937</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Game.java</name>
+<size>9940</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Hopper.java</name>
+<size>2050</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/King.java</name>
+<size>1222</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Knight.java</name>
+<size>2166</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/OutOfValidRange.java</name>
+<size>206</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Pawn.java</name>
+<size>3038</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Piece.java</name>
+<size>2756</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/PieceMoveController.java</name>
+<size>10936</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Player.java</name>
+<size>1974</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/PlayerBlack.java</name>
+<size>1113</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/PlayerWhite.java</name>
+<size>1107</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Position.java</name>
+<size>1063</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Queen.java</name>
+<size>2816</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Rook.java</name>
+<size>1984</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Tile.java</name>
+<size>548</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/chess/Undo.java</name>
+<size>2711</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/imgs</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/alfilBlack.png</name>
+<size>1696</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/alfilWhite.png</name>
+<size>2410</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/bishopBlack.png</name>
+<size>1260</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/bishopWhite.png</name>
+<size>2369</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/hopperBlack.png</name>
+<size>2659</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/hopperWhite.png</name>
+<size>3069</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/kingBlack.png</name>
+<size>2485</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/kingWhite.png</name>
+<size>2279</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/knightBlack.png</name>
+<size>1516</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/knightWhite.png</name>
+<size>1878</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/pawnBlack.png</name>
+<size>797</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/pawnWhite.png</name>
+<size>1294</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/queenBlack.png</name>
+<size>2267</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/queenWhite.png</name>
+<size>2637</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/rookBlack.png</name>
+<size>725</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/imgs/rookWhite.png</name>
+<size>933</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/test/chess</name>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/AlfilTest.java</name>
+<size>2494</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/BishopTest.java</name>
+<size>2984</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/BoardTest.java</name>
+<size>1334</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/ChessTests.java</name>
+<size>368</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/GameTest.java</name>
+<size>7566</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/HopperTest.java</name>
+<size>4573</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/KingTest.java</name>
+<size>2745</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/KnightTest.java</name>
+<size>2591</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/PawnTest.java</name>
+<size>5456</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/PlayerBlackTest.java</name>
+<size>1652</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/PlayerWhiteTest.java</name>
+<size>1637</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/QueenTest.java</name>
+<size>3950</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/RookTest.java</name>
+<size>3189</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/TileTest.java</name>
+<size>593</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/test/chess/UndoTest.java</name>
+<size>2351</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/testPlan.docx</name>
+<size>525896</size>
+<commit
+   revision="5409">
+<author>xhuang62</author>
+<date>2016-09-22T01:30:09.806900Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.buildpath</name>
+<size>188</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/.project</name>
+<size>369</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirGraph.rb</name>
+<size>5491</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/AirGraphTest.rb</name>
+<size>5333</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CityNode.rb</name>
+<size>981</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CityNodeTest.rb</name>
+<size>1034</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/TextInterface.rb</name>
+<size>3440</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/data.json</name>
+<size>16098</size>
+<commit
+   revision="5968">
+<author>xhuang62</author>
+<date>2016-09-26T21:19:42.092509Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.buildpath</name>
+<size>188</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/.project</name>
+<size>369</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirGraph.rb</name>
+<size>16809</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/AirGraphTest.rb</name>
+<size>11444</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CityNode.rb</name>
+<size>2001</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CityNodeTest.rb</name>
+<size>1125</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/TextInterface.rb</name>
+<size>12977</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/data.json</name>
+<size>16098</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/temp.json</name>
+<size>13198</size>
+<commit
+   revision="6945">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7134">
+<author>xhuang62</author>
+<date>2016-10-09T05:13:07.765019Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.classpath</name>
+<size>307</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.project</name>
+<size>362</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/.settings</name>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>7228</size>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>3108</size>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>898</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9411</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>11928</size>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>4329</size>
+<commit
+   revision="2749">
+<author>xhuang62</author>
+<date>2016-09-01T20:04:05.862909Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="2700">
+<author>xhuang62</author>
+<date>2016-09-01T18:19:53.485412Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>svnLearning</name>
+<commit
+   revision="2771">
+<author>xhuang62</author>
+<date>2016-09-01T20:36:41.800296Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>svnLearning/shopping</name>
+<commit
+   revision="2694">
+<author>xhuang62</author>
+<date>2016-09-01T18:03:38.159934Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>svnLearning/shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="2662">
+<author>xhuang62</author>
+<date>2016-09-01T16:11:20.884089Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>svnLearning/shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="2678">
+<author>xhuang62</author>
+<date>2016-09-01T16:48:11.071537Z</date>
+</commit>
+</entry>
+</list>
+</lists>

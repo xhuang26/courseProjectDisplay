@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="1234">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:39.454228Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/xhuang62/ProjectA/fileA</path>
+</paths>
+<msg>change fileA</msg>
+</logentry>
+<logentry
+   revision="1233">
+<author>xhuang62</author>
+<date>2016-10-06T22:14:06.091359Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/xhuang62/ProjectA/fileA</path>
+</paths>
+<msg>add fileA</msg>
+</logentry>
+</log>

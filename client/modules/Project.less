@@ -1,0 +1,150 @@
+
+.node circle {
+  fill: #999;
+}
+.node text {
+  font: 10px sans-serif;
+}
+.node--internal circle {
+  fill: #555;
+  cursor: pointer;
+}
+.node--internal text {
+  text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+  font: #A0A0A0;
+}
+.link {
+  fill: none;
+  stroke: #555;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+
+.treeGraph{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  width: inherit;
+  margin:20px;
+  margin-right: 0px;
+  
+}
+.detailedInfo{
+    order: 1;
+    position: absolute;
+    right: 0;
+    top: 250px;
+    aside{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: flex-start;
+      font-family: 'Source Sans Pro', serif;
+      background-color: rgba(0,0,0,0.2);
+      color: white;
+      width: 500px;
+      .subComp{
+        background-color: rgba(148,148,148, 0.3);
+        width: 500px;
+        padding-left: 0px;
+        padding-bottom: 20px;
+      }
+      .subCompComment{
+        background-color: rgba(148,148,148, 0.3);
+        width: 450px;
+        padding-left: 50px;
+        padding-bottom: 20px;
+        padding-top: 30px;
+      }
+      .item{
+        text-align: left;
+        margin: 10px;
+        margin-top: 50px;
+        width: 500px;
+        border-bottom: 1px solid #A0A0A0; 
+        overflow: auto;
+      }
+      .close{
+        text-align: left;
+        margin-left: 10px;
+        margin-top: 5px;
+        cursor: pointer;
+        &:hover{
+          
+          color: black;
+        }
+      }
+      
+    }
+  }
+.iframe{
+  width: 500px;
+  iframe{
+    width: inherit;
+    height: 500px;
+  }
+}
+.versionItem{
+    text-align: left;
+    padding-left: 15px;
+}
+.asideTransition-enter {
+  margin-right: -300px;
+  transition: margin-right 0.4s ease-in;
+}
+
+.asideTransition-enter.asideTransition-enter-active {
+  margin-right: 0px;
+}
+
+.asideTransition-leave {
+  margin-right: 0px;
+  transition: margin-right 0.4s ease-in;
+}
+
+.asideTransition-leave.asideTransition-leave-active {
+  margin-right: -500px;
+}
+
+
+.comments{
+  width: 500px;
+  height: 500px;
+  background-color: grey;
+}
+.tabChanged{
+  background-color: white;
+  color: grey; 
+  
+  padding: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+
+.tabs{
+  list-style-type: none;
+  width: 500px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+.tab{
+  padding: 5px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  cursor: pointer;
+  
+  color: white;
+  background-color: transparent;
+  transition: background-color 0.8s color 0.9s;
+  &:hover{
+    .tabChanged;
+  }
+}
+
+
+
+
+

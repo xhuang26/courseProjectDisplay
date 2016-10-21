@@ -1,0 +1,225 @@
+const FileTree = require('./libs/FileTree');
+const ProjectNode = require('./libs/ProjectNode');
+const RevisionNode = require('./libs/RevisionNode');
+const ParserFuncs = require("./libs/FileParser");
+
+const fs = require('fs'),
+      util = require('util'),
+      xml2js = require('xml2js'),
+      bodyParser = require('body-parser'),
+      express = require('express'),
+      cors = require('cors');
+
+
+const router = express.Router();
+
+//test files
+//const LOG_FILENAME = './data/test_log.xml';
+//const LIST_FILENAME = './data/test_list.xml';
+
+//real file
+const LOG_FILENAME = '../data/svn_log.xml';
+const LIST_FILENAME = '../data/svn_list.xml';
+
+//global variable
+let rootPath = {};
+let projects = {};
+let revisions = {};
+
+//functions
+/*const  readInFile = function(filename) {
+  const parser = new xml2js.Parser();
+  data = fs.readFileSync(__dirname + '/'+filename);
+  let res = null;
+  parser.parseString(data, function (err, result) { //interesting... callback style, but not async...
+    if(err){
+      return console.error(err);
+    }
+    res = result;
+    //console.log(util.inspect(result, false, null))
+    //console.log('Done reading in %s', filename);
+    
+  });
+  return res;
+}
+
+//parse files and  create projects array and file tree
+const parseListFile = function(listFileName){
+  
+  const listObj = readInFile(listFileName);
+  rootPath = listObj['lists']['list'][0]['$']['path'];
+  entryArray = listObj['lists']['list'][0]['entry'];
+
+  
+  for(let i=0; i<entryArray.length; i++){
+    let cur = entryArray[i];
+    let name = cur['name'][0]; //including path info
+    let nameArray = name.split('/');
+    let projectName = nameArray[0];
+        
+    //for creating tree
+    type = cur['$']['kind'];
+    size = -1;
+    if(type != 'dir'){
+      size = cur['size'][0];
+    } 
+    
+    //create new project
+    if(projects[projectName] == null){
+      version = cur['commit'][0]['$']['revision'];
+      author = cur['commit'][0]['author'][0];
+      date = cur['commit'][0]['date'][0];
+      fileTree =new FileTree(projectName);
+      projects[projectName] = new ProjectNode(name,date, version, null, fileTree); //cannot set commit message currently 
+    } else {
+      projects[projectName].fileTree.add(size, type, name);
+    } 
+  }
+}
+const parseLogFile = function(logFileName){
+  const logObj = readInFile(logFileName);
+  const revisionArray = logObj['log']['logentry'];
+  for(let i=0; i<revisionArray.length; i++){
+    let cur = revisionArray[i];
+    let number = cur['$']['revision'];
+    let author = cur['author'][0];
+    let date = cur['date'][0];
+    let message = cur['msg'][0];
+    let revisionNode = new RevisionNode(number, author, message, date);
+    let files = cur['paths'][0]['path'];
+    for(let j=0; j<files.length; j++){
+      let path = files[j]['_'].split('/').slice(2).join('/'); //remove /xhuang62/ at the beginning
+      revisionNode.addFile(path);
+    }
+    revisions[number] = revisionNode;
+  }
+  setSummaryInProjects();
+}
+const setSummaryInProjects = function(){
+  for(name in projects){
+    let project = projects[name];
+    let version = project.version;
+    let summary = revisions[version].message;
+    project.setSummary(summary);
+  }
+}
+
+//get all revisions contain a specific file
+
+const getRevisions = function(filePath){
+  res = [];
+  for(num in revisions){
+    revision = revisions[num];
+    if(revision.containsFile(filePath)){
+      
+      res.push(revision);
+    }
+  }
+  return res;
+}
+
+
+//call parse functions
+parseListFile(LIST_FILENAME);
+parseLogFile(LOG_FILENAME);*/
+
+ParserFuncs.parserListFile(LIST_FILENAME, projects, rootPath);
+ParserFuncs.parserLogFile(LOG_FILENAME, revisions, projects);
+
+
+
+
+//use express
+const app = express();
+const port = 4000;
+
+app.use(cors());
+//Parses the text as URL encoded data (which is how browsers tend to send form data from regular forms set to POST) and exposes the resulting object (containing the keys and values) on req.body
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
+//Parses the text as JSON and exposes the resulting object on req.body.
+app.use(bodyParser.json());
+
+///app.use('/', routers);
+app.use('/', router);
+
+
+
+
+
+
+//routes
+const ProjectRouter = router.route('/projects');
+const ProjectRouterId = router.route('/projects/*');
+const VersionRouterId = router.route('/versions/*');
+const FileRouterId = router.route('/files/*');
+
+//initial testing
+const homeRoute = router.route('/');
+homeRoute.get(function(req, res) {
+  res.json({ message: 'Hello World!' });
+});
+
+
+//methods
+ProjectRouter.get(function(req, res){
+  let dataArray = [];
+  for(name in projects){
+    project = projects[name];
+    dataArray.push({
+      'name': project.name,
+      'date': project.date,
+      'version': project.version,
+      'summary': project.summary
+    })
+  }
+  res.json({message: "OK", data: dataArray});
+});
+
+ProjectRouterId.get(function(req, res){
+  let filePath = req.params[0];
+  let projectName = filePath.split('/')[0];
+  let project = projects[filePath];
+  if(!project){
+    res.status(404).json({message: "file not found", data: []});
+  } else {
+    res.json({message: "OK", data: project.fileTree});
+  }
+});
+
+FileRouterId.get(function(req, res){
+  let filePath = req.params[0];
+  let projectName = filePath.split('/')[0];
+  let project = projects[projectName];
+  if(!project){
+    res.status(404).json({message: "project not found", data: []});
+  } else {
+    let tree= project.fileTree;
+    targetNode = tree.find(filePath);
+    if(targetNode == null){
+      res.status(404).json({message: "file not found", data: []});
+    } else {
+      res.json({message: "ok", data: targetNode});
+    }
+  }
+});
+
+VersionRouterId.get(function(req, res){
+  let filePath = req.params[0];
+  let projectName = filePath.split('/')[0];
+  let project = projects[projectName];
+  if(!project){
+    res.status(404).json({message: "file not found", data: []});
+  } else {
+    curRevisions = ParserFuncs.getRevisions(filePath, revisions);
+    res.json({message: "OK", data: curRevisions});
+  }
+});
+
+
+app.listen(port);
+console.log('Server running on port ' + port);
+
+module.exports = app;
+
