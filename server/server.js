@@ -69,6 +69,7 @@ const FileRouterId = router.route('/files/*');
 const CommentRouterId = router.route('/comments/:parentId/*');
 const CommentRouter = router.route('/comments');
 const IconRouter = router.route('/icons/*');
+const CommentRouterUpdate = router.route('/comment/:id/:isUp');
 
 //initial testing
 const homeRoute = router.route('/');
@@ -107,6 +108,31 @@ function stringFilter(string){
 
 //methods
 
+//update vote for the current comment
+CommentRouterUpdate.get(function(req, res){
+  let isUp = req.params.isUp;
+  let id = req.params.id;
+  let sql_conn = new sql.Connection(config, function(err){
+    const commentUpateRequest = new sql.Request(sql_conn);
+    commentUpateRequest.input("isUp", sql.INT, isUp);
+    commentUpateRequest.input("id", sql.INT, id);
+    commentUpateRequest.execute('dbo.CommentVoteUpdate', function(err, recordsets, returnValue){
+      if (err){
+        res.status(404).json({ error: err });
+        return;
+      }
+      if(returnValue != null){
+        res.json({message: "OK", data: [returnValue]});
+      } else {
+        res.json({message: "OK", data: []});
+      }
+    });
+  });
+  sql.on('error', function(err) {
+    res.status(500).json({message: err.message});
+  });
+})
+
 //get the icon based on the word user input
 IconRouter.get(function(req, res){
   let word = stringFilter(req.params[0]);
@@ -115,12 +141,10 @@ IconRouter.get(function(req, res){
     const iconGetReqeust = new sql.Request(sql_conn);
     iconGetReqeust.input('word', sql.VarChar(50), word);
     iconGetReqeust.execute('dbo.IconGet', function(err, recordsets, returnValue){
-      console.log("word", word);
       if (err){
         res.status(404).json({ error: err });
         return;
       }
-      console.log(word, "and", recordsets);
       if(recordsets && recordsets[0] && recordsets[0].length !== 0){
         res.json({message: "OK", data: recordsets[0]});
       } else {
@@ -138,8 +162,8 @@ IconRouter.get(function(req, res){
 CommentRouterId.get(function(req, res){
   let fileName = req.params[0];
   let parentId = parseInt(req.params.parentId);
-  sql.connect(config, function(err){
-    const commentGetRequest = new sql.Request();
+  let sql_conn = sql.connect(config, function(err){
+    const commentGetRequest = new sql.Request(sql_conn);
     commentGetRequest.input("fileName", sql.VarChar(50), fileName);
     commentGetRequest.input("parentId", sql.Int, parentId);
     commentGetRequest.execute('dbo.CommentGet', function(err, recordsets, returnValue){
@@ -163,9 +187,9 @@ CommentRouter.post(function(req, res){
     res.status(404).json({ message: "invalid request params" });
     return;
   }
-  sql.connect(config, function(err){
+  let sql_conn = sql.connect(config, function(err){
     console.log(stringFilter(req.body.text));
-    const commentPostRequest = new sql.Request();
+    const commentPostRequest = new sql.Request(sql_conn);
     commentPostRequest.input("fileName", sql.VarChar(50), req.body.fileName);
     commentPostRequest.input("parentId", sql.Int, req.body.parentId);
     commentPostRequest.input("text", sql.VarChar(sql.max), stringFilter(req.body.text));

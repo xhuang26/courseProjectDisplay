@@ -31,7 +31,9 @@ describe("/POST comments", function(){
     file = "fileRandom";
     legalUserName="xhuang62"
   });
-
+  beforeEach(function(){
+    //var text = sentenceGenerator();
+  });
   it("should be able to subtitude any illegal message in the posted comment", function(done){
     let simpleXSSTestString = "';!--\"<XSS>=&{()}";
     chai.request(server)

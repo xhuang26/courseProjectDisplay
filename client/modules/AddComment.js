@@ -11,10 +11,13 @@ class AddComment extends React.Component{
     
     this.name = this.props.fileName;
     this.parentId = this.props.id;
+    
+    this.repliesNum = this.props.repliesNum;
     this.state = {
       needTextInput: false,//user request to write comment
       text: "", //comment user wrote
-      userName: "" //username user chose
+      userName: "", //username user chose,
+      
     }
   }
   
@@ -32,8 +35,10 @@ class AddComment extends React.Component{
       if(err){
         return console.error("failed to post comment")
       }
-      console.log("post id", res);
       self.props.parentFunc();
+      if(self.props.ancestorFunc){
+        self.props.ancestorFunc();
+      }
     });
   }
   
@@ -70,6 +75,12 @@ class AddComment extends React.Component{
     })
   }
   
+  componentWillReceiveProps(nextProps){
+    if(this.props.repliesNum !== nextProps.repliesNum){
+      this.repliesNum = nextProps.repliesNum;
+    }
+  }
+  
   render() {
     var positionStyle;
     if(this.props.topOne){
@@ -78,6 +89,9 @@ class AddComment extends React.Component{
     return (
         <div>
           <button style={positionStyle} className="commentButton" onClick={this.TextInputExpand.bind(this)}>{this.state.needTextInput?"hide":"add comment"}</button>
+          {this.repliesNum !== undefined?
+            <span className="repliesNum">replies: {this.repliesNum}</span>
+          :null}
           {this.state.needTextInput?
             <form className="commentForm">
               <input className="name" onChange={this.handleUserNameChange.bind(this)} value={this.state.userName} placeholder="name"/>

@@ -11,14 +11,17 @@ require("!style!css!less!./Project.less");
 class Project extends React.Component{
   constructor(){
     super();
-    
+    this.sorts = ["unsorted", "byUpvote", "byReplies"];
     this.state = {
       detailInfoObj: null, //file project modal detial info
       shouldViewVersion: false, //hide or show version info
       iframeUrl: null, 
       comments: [],
-      tabState: 0
+      tabState: 0,
+      sort: this.sorts[0],
+      showVotesList: false
     }
+    
     
     //info for tab changes
     this.tabNames = ["information", "documents", "comment"];
@@ -211,10 +214,11 @@ class Project extends React.Component{
       }
       var parsedData = JSON.parse(res.text);
       var jsonData = parsedData.data;
-      self.setState({
+      /*self.setState({
         comments:jsonData
-      });
-      console.log("comments", jsonData);
+      });*/
+      self.changeSort(self.state.sort, jsonData, false);
+      
     });
   }
   
@@ -234,8 +238,59 @@ class Project extends React.Component{
     
   }
   
-  setTabButtonClass(){
-    
+  toggleVoteList(){
+    let newState = this.state.showVotesList?false:true
+    this.setState({
+      showVotesList:newState
+    });
+  }
+  
+  changeSort(newSort, oldComments, needToggle){
+    let newComments = oldComments.slice();
+    console.log("old", newComments);
+    if(newSort == this.sorts[1]){//by upvote
+      console.info("by upvote");
+      newComments = newComments.sort(function(a,b){
+        if(b.upVote !== a.upVote){
+          return b.upVote-a.upVote;
+        } else {
+          return a.downVote-b.downVote;
+        }
+      });
+    } else if(newSort == this.sorts[2]){//by replies
+      console.info("by replies");
+      newComments = newComments.sort(function(a,b){
+        return b.repliesNum-a.repliesNum;
+      });
+    }
+    console.log("new", newComments);
+    this.setState({
+      sort: newSort,
+      comments: newComments
+    });
+    if(needToggle){
+      this.toggleVoteList();
+    }
+  }
+  
+  updateCommentsOrder(){
+    let newComments = this.state.comments.slice();
+    if(this.state.sort == this.sorts[1]){//by upvote
+      console.info("by upvote");
+      newComments = newComments.sort(function(a,b){
+        if(b.upVote !== a.upVote){
+          return b.upVote-a.upVote;
+        } else {
+          return a.downVote-b.downVote;
+        }
+      });
+    } else if(this.state.sort == this.sorts[2]){//by replies
+      console.info("by replies");
+      newComments = newComments.sort(function(a,b){
+        return b.repliesNum-a.repliesNum;
+      });
+    }
+    return newComments;
   }
   
   render() {
@@ -250,10 +305,24 @@ class Project extends React.Component{
         </div></div>;
       } else if(this.state.tabState == 2){//comments
          subcomponent = <div className="subCompComment">
+          <div className="voteSession">
+            <button onClick={this.toggleVoteList.bind(this)}>{this.state.sort}</button>
+            {this.state.showVotesList?
+              <ul>
+                {this.sorts.map(function(sort, index){
+                  return(
+                    <li key = {index} onClick={this.changeSort.bind(this,sort, this.state.comments, true)}>
+                      {sort}
+                    </li>
+                  )
+                }, this)}
+              </ul>
+            :null}
+          </div>
           <AddComment topOne={true} baseUrl={this.props.baseUrl} fileName={this.state.detailInfoObj.path} id={-1} parentFunc={this.getReplies.bind(this)}></AddComment>
           {this.state.comments.map(function(comment, index){
             return(
-              <Comment paddingLeft={-15} key = {index} id={comment.id} baseUrl={this.props.baseUrl} fileName={comment.fileName} parentId={comment.parentId} text={comment.text} userName={comment.username} >
+              <Comment sort = {this.state.sort} parentFunc={this.getReplies.bind(this)} repliesNum = {comment.repliesNum} paddingLeft={-15} key={comment.id} id={comment.id} baseUrl={this.props.baseUrl} fileName={comment.fileName} parentId={comment.parentId} text={comment.text} userName={comment.username} upVote={comment.upVote} downVote={comment.downVote} >
               </Comment>
             )
           }, this)}

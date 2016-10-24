@@ -12,7 +12,9 @@ class Projects extends React.Component{
       projects: [],
       curProject: null
     }
-  };
+    
+    this.imgs = ["http://placehold.it/200x200&text=Assignment0","/lib/airplane.jpg", "/lib/airplane2.jpg", "/lib/chess.jpg", "/lib/chess2.jpg", "/lib/chess3.jpg", "http://placehold.it/200x200&text=webPortfolio", "http://placehold.it/200x200&text=homework0", "http://placehold.it/200x200&text=svnLearning"]
+  }
   
   changeCurProject(){
     
@@ -51,7 +53,9 @@ class Projects extends React.Component{
           {this.state.projects.map(function(project, index){
             return (
               <div className="item" key={index}>
-                <div className="image"></div>
+                <div className="image">
+                  <img src={this.imgs[index]}/>
+                </div>
                 <div className="texts">
                   <div className={nameClass}><Link to = {"Project/"+project.name}>{this.getName(project.name)}</Link></div>
                   <div className="text">Revision: {project.version}</div>
