@@ -115,6 +115,7 @@ class Comment extends React.Component{
     return convertedText;
   }
   
+  //update the upvote and downvote
   updateVote(id, isUp, newVote){
     console.log("updateVote");
     let self = this;
@@ -129,11 +130,10 @@ class Comment extends React.Component{
     });
   }
   
+  //change the sorting method based on passed in newSort
   changeSort(newSort, oldComments){
     let newComments = oldComments.slice();
-    console.log("comment old", newComments);
     if(newSort == this.sorts[1]){//by upvote
-      console.info("by upvote");
       newComments = newComments.sort(function(a,b){
         if(b.upVote !== a.upVote){
           return b.upVote-a.upVote;
@@ -142,12 +142,10 @@ class Comment extends React.Component{
         }
       });
     } else if(newSort == this.sorts[2]){//by replies
-      console.info("by replies");
       newComments = newComments.sort(function(a,b){
         return b.repliesNum-a.repliesNum;
       });
     }
-    console.log("comment new", newComments);
     this.setState({
       replies: newComments,
       needReplies: true
@@ -155,9 +153,6 @@ class Comment extends React.Component{
   }
   
   componentWillUpdate(nextProps, nextState){
-    console.log("get here");
-    console.log("this sort", this.props.sort);
-    console.log("next sort", nextProps.sort);
     if(this.state.replies!== null && this.props.sort !== nextProps.sort){
       this.changeSort(nextProps.sort, this.state.replies);
     }

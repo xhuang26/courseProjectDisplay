@@ -16,10 +16,6 @@ class Projects extends React.Component{
     this.imgs = ["http://placehold.it/200x200&text=Assignment0","/lib/airplane.jpg", "/lib/airplane2.jpg", "/lib/chess.jpg", "/lib/chess2.jpg", "/lib/chess3.jpg", "http://placehold.it/200x200&text=webPortfolio", "http://placehold.it/200x200&text=homework0", "http://placehold.it/200x200&text=svnLearning"]
   }
   
-  changeCurProject(){
-    
-  }
-  
   getName(path){
     var nameArray = path.split("/");
     return nameArray[nameArray.length-1];

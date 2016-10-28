@@ -238,6 +238,7 @@ class Project extends React.Component{
     
   }
   
+  //control the selection panel
   toggleVoteList(){
     let newState = this.state.showVotesList?false:true
     this.setState({
@@ -245,6 +246,7 @@ class Project extends React.Component{
     });
   }
   
+  //change the way of sorting
   changeSort(newSort, oldComments, needToggle){
     let newComments = oldComments.slice();
     console.log("old", newComments);
